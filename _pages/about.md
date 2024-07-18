@@ -9,8 +9,8 @@ redirect_from:
 
 I've been in the Customer Experience industry for over 7 years. I have answered over 200 tickets in one day! Built processes and created documentation for all said processes. Evaluated up to 50 tickets in quality assurance weekly. Weekly analysis of income tickets for new trends and changes. Closely collaborated with Fraud team, Product team, and more.   
 
-My Work Experience
-======
+<h1 style="text-align: center">Work Experience</h1>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <span style="font-size: 1.5em">Wish</span>  
 **Quality Assurance Analyst**  
 <span style="font-size: 0.8em">December 2021 - August 2023</span>
@@ -41,8 +41,8 @@ My Work Experience
 * Create monthly email marketing campaigns to engage new and old customers.
 * Brand development in social media through Twitter, Facebook, Youtube, LinkedIn, etc.
 
-Skills
-======
+<h1 style="text-align: center">Skills</h1>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 * Problem solving
 * Team work
 * Adaptability 
@@ -52,8 +52,8 @@ Skills
   * Javascript 
   * SQL 
 
-Tools
-======
+<h1 style="text-align: center">Tools</h1>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 * Google Suites
 * Jira
 * Zendesk
@@ -62,14 +62,14 @@ Tools
 * Adyen
 * Klarna
 
-Education
-======
+<h1 style="text-align: center">Education</h1>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 * San Diego State University, 2010
     * Business Management 
 * Jinan University, Guangzhou, China 2009
 
-Personal Interests
-======
+<h1 style="text-align: center">Personal Interests</h1>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 🚴🏻‍♀️ Biking  
 🥾 Hiking  
 ⛺️ Camping  
