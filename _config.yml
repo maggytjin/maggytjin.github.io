@@ -21,7 +21,7 @@ repository               : "maggytjin/maggytjin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "osaka.jpg"
+  avatar           : "osaka.JPG"
   name             : "Maggy Tjin"
   pronouns         : # example: "she/her"  
   bio              : "Customer Experience. Analyst."
@@ -78,7 +78,7 @@ author:
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
