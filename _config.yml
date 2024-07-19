@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Maggy's Homepage"
 title_separator          : "-"
 name                     : &name "Maggy Tjin"
-description              : &description "personal description"
+description              : &description "Customer Experience. Analyst. Adventurer."
 url                      : https://maggytjin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "maggytjin/maggytjin.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "osaka.JPG"
   name             : "Maggy Tjin"
   pronouns         : # example: "she/her"  
-  bio              : "Customer Experience. Analyst."
+  bio              : "Customer Experience. Analyst. Adventurer."
   location         : "San Francisco Bay Area"
   employer         : # 
   uri              : # URL
