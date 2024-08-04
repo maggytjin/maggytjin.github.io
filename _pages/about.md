@@ -70,10 +70,10 @@ I've been in the Customer Experience industry for over 7 years. I have answered 
 
 <h1 style="text-align: center">Certification</h1>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-* <a href="https://www.linkedin.com/learning/certificates/5f2ac9143a4bba1105237f993b36d20a4df0362b4a5d9557806be74356d92444?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BZFODWX0RTFmF4KVww7mPTA%3D%3D" target="_blank">Excel Essential Training</a>
-* <a href="https://www.udemy.com/certificate/UC-482c18d9-b8ed-4668-9765-5231864d2093/" target="_blank">The Complete SQL Bootcamp: Go from Zero to Hero</a>
-* <a href="https://www.linkedin.com/learning/certificates/221059d9e96b9f3e899ea395bdb27483dc0628b0242b3bd30e447a35618318af?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BZFODWX0RTFmF4KVww7mPTA%3D%3D" target="_blank">CSS Essential Training</a>
-* <a href="https://www.linkedin.com/learning/certificates/cbffc8fc3bff6324962ad9672632cbda834a23e3a0cc020502fb82cd7a13403f?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BZFODWX0RTFmF4KVww7mPTA%3D%3D" target="_blank">HTML Essential Training</a>
+* <a href="https://www.linkedin.com/learning/certificates/5f2ac9143a4bba1105237f993b36d20a4df0362b4a5d9557806be74356d92444?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BZFODWX0RTFmF4KVww7mPTA%3D%3D" target="_blank" rel="noreferrer noopener">Excel Essential Training</a>
+* <a href="https://www.udemy.com/certificate/UC-482c18d9-b8ed-4668-9765-5231864d2093/" target="_blank" rel="noreferrer noopener">The Complete SQL Bootcamp: Go from Zero to Hero</a>
+* <a href="https://www.linkedin.com/learning/certificates/221059d9e96b9f3e899ea395bdb27483dc0628b0242b3bd30e447a35618318af?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BZFODWX0RTFmF4KVww7mPTA%3D%3D" target="_blank" rel="noreferrer noopener">CSS Essential Training</a>
+* <a href="https://www.linkedin.com/learning/certificates/cbffc8fc3bff6324962ad9672632cbda834a23e3a0cc020502fb82cd7a13403f?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BZFODWX0RTFmF4KVww7mPTA%3D%3D" target="_blank" rel="noreferrer noopener">HTML Essential Training</a>
 
 <h1 style="text-align: center">Personal Interests</h1>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
